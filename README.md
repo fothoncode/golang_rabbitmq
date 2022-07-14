@@ -1,5 +1,7 @@
 # Golang RabbitMQ Consumer
 
+golang_rabbitmq is a golang module that used to consume rabbitMQ message broker 
+
 ## Install
 
 ``` go
